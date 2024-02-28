@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.0
+Name=Trezor Wallet
+Comment=Trezor Wallet : Crypto Wallet
+Exec=trezorwal
+Icon=${SNAP}/meta/gui/trezorwal.png 
+Terminal=false
+Type=Application
